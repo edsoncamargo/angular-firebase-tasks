@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/purple-green.css";
+
+html, body {
+  margin: 0;
+}
+
+.fab-bottom-right {
+  position: fixed !important;
+  bottom: 15px;
+  right: 15px;
+}
+
+.mat-menu {
+  position: fixed !important;
+  left: 15px;
+}
+
+.spinner {
+  margin: 30px auto 0 auto;
+}
