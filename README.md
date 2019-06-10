@@ -1,5 +1,6 @@
 # AngularFirebaseTasks
 
+Web application of tasks (simple), using angular, material and firebase.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
 
 ## Development server
